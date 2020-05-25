@@ -1,2 +1,0 @@
-To fetch wikihits, the following tool is used:
-https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&range=latest-20&pages=Cat|Dog
