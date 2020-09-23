@@ -1,4 +1,3 @@
-# Repository Under Construction
 # Stock-Market-Price-Prediction
 
 The tasks completed.
